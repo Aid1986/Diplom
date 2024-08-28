@@ -90,5 +90,5 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 1. По инструкции с [Yandex Cloud](https://cloud.yandex.com/) установил терраформ на локальную ВМ, создал новый сервисный аккаунт и настроил доступ к    облаку с локальной машины:
   <details>
 
-![image](img)
+![image](image/init.png)
 </details>
